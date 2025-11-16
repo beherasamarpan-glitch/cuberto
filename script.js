@@ -40,6 +40,8 @@ Shery.imageEffect(".images", {
     },
 });
 
+
+
 //MOBILE FIXES 
 
 
